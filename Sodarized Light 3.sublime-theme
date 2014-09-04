@@ -1168,67 +1168,6 @@
 // SIDEBAR ICONS
 //
 
-    {
-        "class": "icon_regex",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_regex.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_case",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_case.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_highlight",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_highlight.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_in_selection",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_inselection.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_reverse",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_reverse.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_whole_word",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_wholeword.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_wrap",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/find_wrap.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/replace_preserve_case.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_context",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/context.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-    {
-        "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Sodarized/Soda Light/icons/use_buffer.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [0, 0]
-    },
-
     // file and folder icons
     {
         "class": "icon_file_type",
